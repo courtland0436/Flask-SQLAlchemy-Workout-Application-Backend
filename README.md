@@ -9,17 +9,21 @@ To get this project running locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/courtland0436/Flask-SQLAlchemy-Workout-Application-Backend.git
    ```
 
-2. **Run the Setup Script:**
+2. **Enter the project directory:**
+```
+cd Flask-SQLAlchemy-Workout-Application-Backend
+```
+
+3. **Run the Setup Script:**
 This script installs backend and frontend dependencies and seeds the database.
 ```
 sh setup.sh
 ```
 
-3. **Launch the Application:**
+4. **Launch the Application:**
 Open two separate terminal windows:
 
 Terminal 1 (Backend):
